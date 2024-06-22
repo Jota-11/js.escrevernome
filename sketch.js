@@ -172,3 +172,4 @@ class Ball {
     this.ySpeed = random(1, 3) * (random() > 0.5 ? 1 : -1);
   }
 }
+
